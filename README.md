@@ -1,2 +1,3 @@
 # daily-selfy
-Every day a picture. Create collages, timelapses and so on
+Every day a picture. Create collages and timelapses.
+Load pictures via. a given folder or an apple photo album.
